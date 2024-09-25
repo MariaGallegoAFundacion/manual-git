@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 3er cambio
+=======
+1er cambio
+>>>>>>> parent of dde685d (Segundo cambio)
