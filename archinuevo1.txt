@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 vuelta al main
+=======
+cambio de rama 
+>>>>>>> cae8475 (Añadir primer cambio en feature-1)
