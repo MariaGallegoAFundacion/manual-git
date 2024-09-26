@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Otro cambio
 <<<<<<< HEAD
+=======
+más cambios<<<<<<< HEAD
+>>>>>>> 61b57b5 (Hacer otro commit en otra rama)
 vuelta al main
 =======
 cambio de rama 
